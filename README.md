@@ -76,6 +76,14 @@
 
 <br/>
 
+<summary><b>💻 GitHub Profile Stats</b></summary>
+
+  &nbsp;
+	  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devshowviz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Devshowviz"><img alt="Devshowviz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Devshowviz&custom_title=Devshowviz's%20Contribution%20Graph&theme=react-dark" /></a>
