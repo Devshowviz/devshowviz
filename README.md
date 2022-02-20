@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Hongmyeong Kim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-## :sassy_man:  About me
+# :sassy_man:  About me
 - :school: Chosun University
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
