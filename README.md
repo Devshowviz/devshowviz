@@ -68,7 +68,7 @@
 	&emsp;
 	    <a href="#"><img alt="AWS" src=https://img.shields.io/badge/aws-%23181717.svg?&style=plastic&logo=aws&logoColor=white"></a>
 		    &emsp;
-	    <a href="#"><img alt="ANACONDA" src=https://img.shields.io/badge/anaconda-%23000000.svg?&style=plastic&logo=anaconda&logoColor=white"></a>
+	    <a href="#"><img alt="ANACONDA" src=https://img.shields.io/badge/anaconda-%2334A853.svg?&style=plastic&logo=anaconda&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -81,7 +81,7 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 		    &emsp;
-    <a href="#"><img alt="AndroidStudio" src="https://img.shields.io/badge/androidstudio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+    <a href="#"><img alt="AndroidStudio" src="https://img.shields.io/badge/android%studio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
 </p>
 
 <br/>
