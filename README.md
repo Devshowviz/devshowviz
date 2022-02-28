@@ -78,6 +78,8 @@
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+		    &emsp;
+    <a href="#"><img alt="AndroidStudio" src="https://img.shields.io/badge/androidstudio%20-%23F05033.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
 </p>
 
 <br/>
