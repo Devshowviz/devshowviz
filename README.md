@@ -67,6 +67,8 @@
 	    <a href="#"><img alt="Docker" src=https://img.shields.io/badge/docker-%23000000.svg?&style=plastic&logo=docker&logoColor=white"></a>
 	&emsp;
 	    <a href="#"><img alt="AWS" src=https://img.shields.io/badge/aws-%23181717.svg?&style=plastic&logo=aws&logoColor=white"></a>
+		    &emsp;
+	    <a href="#"><img alt="ANACONDA" src=https://img.shields.io/badge/anaconda-%23000000.svg?&style=plastic&logo=anaconda&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
