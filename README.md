@@ -62,7 +62,7 @@
   &emsp;
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 	&emsp;
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Pycharm" src=https://img.shields.io/badge/pycharm-%2343B02A.svg?&style=plastic&logo=pycharm&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
